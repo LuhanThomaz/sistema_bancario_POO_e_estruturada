@@ -20,7 +20,7 @@ Funcionalidades
 
     bash
 
-git clone https://github.com/seu-usuario/sistema-bancario-python.git
+git clone https://github.com/seu-usuario/sistema-bancario-python.git](https://github.com/LuhanThomaz/sistema_bancario_POO_e_estruturada.git
 
 Navegue até o diretório do projeto:
 

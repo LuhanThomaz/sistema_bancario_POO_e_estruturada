@@ -9,12 +9,12 @@ Funcionalidades
     Saque em conta
     Exibição de extrato bancário
 
-Requisitos
+##Requisitos
 
     Python 3.x
     Nenhum outro requisito é necessário.
 
-Como usar
+##Como usar
 
     Clone este repositório:
 
@@ -36,6 +36,6 @@ bash
 
     Siga as instruções do menu para interagir com o sistema bancário.
 
-Contribuição
+##Contribuição
 
 Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades. Basta abrir uma issue ou enviar um pull request.
